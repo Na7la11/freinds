@@ -3,12 +3,13 @@
         <meta charset="UTF-8"/>
         <title>Friends</title>
         <meta name="description" contant="Those are my friends"/>
+        
     </head>
     <body>
 
         <h1>My Best Friends</h1>
        <p>Those are my <mark>Friends</mark> </p>
-       <img src="MAP_6209.jpg" alt="" width="500" height="400">
+       <!-- <img src="MAP_6209.jpg" alt="" width="500" height="400"> -->
        
        <p>______________________________________________________</p>
        <p>   <a href=""> </a> </p>    
@@ -16,7 +17,7 @@
         <ul>
             <li>
                 <h3>Na7la</h3> 
-                <img src="IMG_20220328_162735_861.jpg" alt="" width="300">
+                <!-- <img src="IMG_20220328_162735_861.jpg" alt="" width="300"> -->
                  <ul>
                     <li>He is write this a simple code</li>
                     <li>the real name is <u> <b>Mohamed</b></u> </li>
@@ -28,7 +29,7 @@
             
             <li>
                 <p><h3><del>Balermo</del>  Tefa</h3></p>
-                <img src="MAP_6202.jpg" alt="" width="300" >
+                <!-- <img src="MAP_6202.jpg" alt="" width="300" > -->
                  <ul>
                     <li> He is gay بس الرجوله مواقف</li>
                     <li>لا ميغركش دا هندسه قد الدنيا</li>
@@ -43,7 +44,7 @@
             </li>
             <li>
                 <h3>Kimo</h3>
-                <img src="MAP_6207.jpg" alt=""width="300">
+                <!-- <img src="MAP_6207.jpg" alt=""width="300"> -->
                  <ul>
                 <li>karem </li>
                 <li>اكبر معرص ف الكوكب</li>
@@ -57,7 +58,7 @@
 
                 <li>
                 <p><h3>7gag</h3></p>
-                <img src="MAP_6197.jpg" alt="" width="300">
+                <!-- <img src="MAP_6197.jpg" alt="" width="300"> -->
                  <ul>
                 <li>Mahmoud </li>
                 <li>مهندس كمبيوتر قد الدنيا</li>
