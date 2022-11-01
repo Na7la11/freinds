@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Friends</title>
+        <meta name="description" contant="Those are my friends"/>
+    </head>
+    <body>
+
+        <h1>My Best Friends</h1>
+       <p>Those are my <mark>Friends</mark> </p>
+       <img src="MAP_6209.jpg" alt="" width="500" height="400">
+       
+       <p>______________________________________________________</p>
+       <p>   <a href=""> </a> </p>    
+        
+        <ul>
+            <li>
+                <h3>Na7la</h3> 
+                <img src="IMG_20220328_162735_861.jpg" alt="" width="300">
+                 <ul>
+                    <li>He is write this a simple code</li>
+                    <li>the real name is <u> <b>Mohamed</b></u> </li>
+                    <li>He study in computer sience</li>
+                    <li>محبوب وبر والديه</li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100017415337112">my account</a></li>
+                 </ul>
+            </li>
+            
+            <li>
+                <p><h3><del>Balermo</del>  Tefa</h3></p>
+                <img src="MAP_6202.jpg" alt="" width="300" >
+                 <ul>
+                    <li> He is gay بس الرجوله مواقف</li>
+                    <li>لا ميغركش دا هندسه قد الدنيا</li>
+                    <li>بس اليومين دول قالب الترس اهلاوي </li>
+                    <li>روش طحن</li>
+                    <li><a href="https://www.facebook.com/ahmed.attef.1865">His account in facebook</a></li>
+                    
+
+
+                 </ul>
+                
+            </li>
+            <li>
+                <h3>Kimo</h3>
+                <img src="MAP_6207.jpg" alt=""width="300">
+                 <ul>
+                <li>karem </li>
+                <li>اكبر معرص ف الكوكب</li>
+                <li>شيخ أحياناً</li>
+                <li><mark>مستشار </mark> </li>
+                <li><a href="https://www.facebook.com/profile.php?id=100056267910932">His account in facebook</a></li>
+
+                 </ul>
+
+                </li>
+
+                <li>
+                <p><h3>7gag</h3></p>
+                <img src="MAP_6197.jpg" alt="" width="300">
+                 <ul>
+                <li>Mahmoud </li>
+                <li>مهندس كمبيوتر قد الدنيا</li>
+                <li>ماشي بمبدأ كسم اي حد واي حد كسمه</li>
+                <li>Hi is always drink from <mark> H<sub>2</sub>O </mark> </li>
+                <li><a href="https://www.facebook.com/profile.php?id=100008800516052">His account in facebook</a></li>
+                 </ul>
+            </li>
+
+            
+            
+        </ul>
+
+    </body>
+</html> 
